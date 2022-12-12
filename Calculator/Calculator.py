@@ -16,10 +16,10 @@ from tkinter import*
 calc = Tk()
 
 # Set the size of window
-tabname.geometry("300x200")
+calc.geometry("300x200")
 
 # Run the program
-tabname.mainloop()
+calc.mainloop()
 
 
 
